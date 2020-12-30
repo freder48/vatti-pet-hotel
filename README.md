@@ -13,12 +13,6 @@ Duration: 7 hours
 
 This application simulates a basic intake for a Pet Resort customer. Users can input their name, pets name, breed, and color. Once the pet is submitted their information will be displayed and stored in the table. You can toggle the check in status of the pet by clicking the Check In button and the date will be displayed. After the pet has left the hotel one can delete the pet's information from the table using the delete button. 
 
-
-## Screen shot
-
-The application in action
-![Application in Action](pet_hotel.png)
-
 ##Installation
 
 Required packages:
